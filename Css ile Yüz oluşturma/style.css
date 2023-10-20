@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.container{
+    position: absolute;
+    left: 30%;
+    top: 70px;
+    width: 600px;
+    height: 600px;
+    border: 8px solid sandybrown;
+    border-radius: 50%;
+    border-top-color: black;
+    background-color: sandybrown;
+}
+
+.solGoz{
+    position: absolute;
+    left: 110px;
+    top: 160px;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.solGoz-ic{
+    position: absolute;
+    left: 35px;
+    top: 8px;
+    width: 25px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: black;
+}
+
+.sagGoz{
+    position: absolute;
+    left: 360px;
+    top: 160px;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.sagGoz-ic{
+    position: absolute;
+    left: 35px;
+    top: 8px;
+    width: 25px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: black;
+}
+.burun{
+    position: absolute;
+    left: 260px;
+    top: 240px;
+   width: 50px;
+   height: 100px;
+   border: 2px solid black;
+   border-radius: 10px 10px 30px 30px;
+}
+
+.burun-ic1{
+    position: absolute;
+    width: 15px;
+    height: 25px;
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 50%;
+    top: 70px;
+    left: 4px;
+}
+
+.burun-ic2{
+    position: absolute;
+    width: 15px;
+    height: 25px;
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 50%;
+    top: 70px;
+    left: 26px;
+}
+
+.agiz{
+    position: absolute;
+    bottom: 120px;
+    left: 210px;
+    width: 150px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 8px 8px 25px 25px;
+     background-color: salmon;
+}
+
+
